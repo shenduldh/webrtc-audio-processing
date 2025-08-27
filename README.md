@@ -5,7 +5,7 @@ Build webrtc audio processing module and use it in python.
 ## Setup
 
 ```bash
-meson . build -Dprefix=$PWD/install
+meson setup . build -Dprefix=$PWD/install
 ninja -C build
 ninja -C build install
 

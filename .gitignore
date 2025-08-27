@@ -1,0 +1,6 @@
+build
+subprojects/abseil-cpp-*
+subprojects/packagecache
+install
+python/*.egg-info
+python/*.so
