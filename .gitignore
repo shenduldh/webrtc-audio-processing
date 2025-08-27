@@ -4,3 +4,4 @@ subprojects/packagecache
 install
 python/*.egg-info
 python/*.so
+__pycache__

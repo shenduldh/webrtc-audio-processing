@@ -12,3 +12,8 @@ ninja -C build install
 cd python
 LIBRARY_PATH=../install/lib/x86_64-linux-gnu/:$LIBRARY_PATH pip install -e .
 ```
+
+## References
+
+1. [webrtc-audio-processing-python](https://github.com/zhoubin-me/webrtc-audio-processing-python)
+2. [webrtc-audio-processing](https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing)
